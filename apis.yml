@@ -37,6 +37,9 @@ description: >-
   XOMA Royalty itself was subsequently acquired by Ligand (closed July 2026).
   This profile is retained as a company/identity record with no API surface.
 url: https://raw.githubusercontent.com/api-evangelist/hillevax/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "Enrichment probing found no developer program, no API, no developer portal, and no public API documentation of any kind, which is expected for a clinical-stage vaccine developer rather than a technolo"
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
